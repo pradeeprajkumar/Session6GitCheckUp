@@ -37,20 +37,20 @@
 		5201F2F115B3F46B00CFB4F5 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		5201F2F315B3F46B00CFB4F5 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		5201F2F515B3F46B00CFB4F5 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		5201F2F915B3F46B00CFB4F5 /* Session6GitCheckUp-Info.plist */ = {isa = PBXFileReference; path = "Session6GitCheckUp-Info.plist"; sourceTree = "<group>"; };
+		5201F2F915B3F46B00CFB4F5 /* Session6GitCheckUp-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Session6GitCheckUp-Info.plist"; sourceTree = "<group>"; };
 		5201F2FB15B3F46B00CFB4F5 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		5201F2FD15B3F46B00CFB4F5 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		5201F2FF15B3F46B00CFB4F5 /* Session6GitCheckUp-Prefix.pch */ = {isa = PBXFileReference; path = "Session6GitCheckUp-Prefix.pch"; sourceTree = "<group>"; };
-		5201F30015B3F46B00CFB4F5 /* GitCheckUpAppDelegate.h */ = {isa = PBXFileReference; path = GitCheckUpAppDelegate.h; sourceTree = "<group>"; };
+		5201F2FF15B3F46B00CFB4F5 /* Session6GitCheckUp-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Session6GitCheckUp-Prefix.pch"; sourceTree = "<group>"; };
+		5201F30015B3F46B00CFB4F5 /* GitCheckUpAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GitCheckUpAppDelegate.h; sourceTree = "<group>"; };
 		5201F30115B3F46B00CFB4F5 /* GitCheckUpAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GitCheckUpAppDelegate.m; sourceTree = "<group>"; };
 		5201F30415B3F46B00CFB4F5 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
-		5201F30615B3F46B00CFB4F5 /* GitCheckUpViewController.h */ = {isa = PBXFileReference; path = GitCheckUpViewController.h; sourceTree = "<group>"; };
+		5201F30615B3F46B00CFB4F5 /* GitCheckUpViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GitCheckUpViewController.h; sourceTree = "<group>"; };
 		5201F30715B3F46B00CFB4F5 /* GitCheckUpViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GitCheckUpViewController.m; sourceTree = "<group>"; };
 		5201F30E15B3F46B00CFB4F5 /* Session6GitCheckUpTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Session6GitCheckUpTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5201F30F15B3F46B00CFB4F5 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		5201F31715B3F46B00CFB4F5 /* Session6GitCheckUpTests-Info.plist */ = {isa = PBXFileReference; path = "Session6GitCheckUpTests-Info.plist"; sourceTree = "<group>"; };
+		5201F31715B3F46B00CFB4F5 /* Session6GitCheckUpTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Session6GitCheckUpTests-Info.plist"; sourceTree = "<group>"; };
 		5201F31915B3F46B00CFB4F5 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		5201F31B15B3F46B00CFB4F5 /* Session6GitCheckUpTests.h */ = {isa = PBXFileReference; path = Session6GitCheckUpTests.h; sourceTree = "<group>"; };
+		5201F31B15B3F46B00CFB4F5 /* Session6GitCheckUpTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Session6GitCheckUpTests.h; sourceTree = "<group>"; };
 		5201F31C15B3F46B00CFB4F5 /* Session6GitCheckUpTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Session6GitCheckUpTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
